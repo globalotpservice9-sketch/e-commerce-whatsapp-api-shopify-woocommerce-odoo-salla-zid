@@ -13,7 +13,7 @@ Get your **Official Meta API Key** in under 5 minutes at [5minutesapi.com](https
 
 ## Installation
 ```bash
-composer require 5minutesapi/E-commerce-WhatsApp-API-Shopify-WooCommerce-Odoo-Salla-Zid
+composer require 5minutesapi/e-commerce-whatsapp-api-shopify-woocommerce-odoo-salla-zid
 Quick Start (COD Verification Example)
 require 'vendor/autoload.php';
 use FiveMinutesAPI\Ecommerce\EcommerceWhatsApp;
