@@ -1,5 +1,5 @@
 {
-    "name": "5minutesapi/E-commerce-WhatsApp-API-Shopify-WooCommerce-Odoo-Salla-Zid",
+    "name": "5minutesapi/e-commerce-whatsapp-api-shopify-woocommerce-odoo-salla-zid",
     "description": "Universal E-commerce WhatsApp API SDK. Automate OTPs, COD Verification, and Order Alerts for WooCommerce, Magento, Odoo, Salla, Zid, and Shopify.",
     "type": "library",
     "keywords": ["whatsapp", "ecommerce", "woocommerce", "magento", "odoo", "salla", "zid", "shopify", "opencart", "cod-verification", "otp", "meta"],
